@@ -1,4 +1,4 @@
-## Bootcamp-1
+## BootCamp-1
 
 # Git and Github
 **Author** - ***Saichandan Gorli***
